@@ -7,7 +7,7 @@ export const contactDetails: ContactDetails = {
   phone: "+91 7075892413",
   location: "Nellore, Andhra Pradesh, India",
   linkedin: "https://www.linkedin.com/in/katta-nikshitha",
-  github: "https://github.com/katta-nikshitha",
+  github: "https://github.com/Nikshithakatta",
 };
 
 export const professionalSummary = {
@@ -173,7 +173,7 @@ export const featuredProjects: Project[] = [
     featured: true,
     badge: "AI/ML & Agritech",
     techStack: ["Python", "FastAPI", "React", "TypeScript", "Random Forest", "Open-Meteo API", "Scikit-Learn"],
-    githubUrl: "https://github.com/katta-nikshitha",
+    githubUrl: "https://github.com/Nikshithakatta",
     purpose: "An intelligent agronomic recommendation platform that analyzes soil chemistry, live meteorological data, agricultural datasets, and mandi market commodity prices to deliver data-backed crop suggestions with comprehensive ROI projections.",
     architecture: {
       overview: "The system is structured into a full-stack predictive architecture. The frontend is built with React and TypeScript, providing farmers and agronomists with an intuitive, responsive parameter input console and visual ROI dashboard. The backend is powered by FastAPI, serving a Scikit-Learn Random Forest classification pipeline trained on over 246,000 agricultural records. It integrates real-time weather and forecast data via the Open-Meteo API and calculates live economic feasibility against regional mandi commodity pricing datasets.",
